@@ -1,0 +1,14 @@
+{
+  "name": "config-drift-merge-tool",
+  "version": "1.0.0",
+  "description": "配置漂移比对与三方合并工具",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
